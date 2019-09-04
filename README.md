@@ -1,6 +1,6 @@
 # Module 3: Working with Data in R
 
-The tutorial file is located in this repository in two versions, one as a .html file, and the other as a .md file. You can open the .html file using a web browser, and the .md file can be viewed on GitHub. 
+The tutorial file `Working-with-data-in-R` is available as two file types: `.html` and `.md`. Once you clone the repository to your computer, you can open the .html file using a web browser. The .md file can be viewed on GitHub. 
 
 To get started with this module, go through the following steps (similar to those in Module 2, except you won't be submitting a pull request this time):
 
